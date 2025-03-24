@@ -57,8 +57,7 @@ Honors and Awards
 
 Experience
 ===
-* <div>NLP Research Intern, Huawei Noah's Ark</div> 
-* <div>Recommender System Intern, ByteDance-Data-Douyin</div> 
+* <div>Internship, Tencent Lightspeed & Quantum Studios Group</div> 
 * <div>Research Assistant, SEU MOE Key Lab</div> 
 
 ---
