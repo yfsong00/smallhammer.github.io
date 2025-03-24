@@ -21,7 +21,7 @@ repository               : "yfsong00/smallhammer.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yifan song.jpg"
+  avatar           : "yifan_song.jpg"
   name             : "Yifan Song"
   pronouns         : # example: "she/her"  
   bio              : "Low-rank Matrix Approximation, Graph Embedding and GNN"
