@@ -21,13 +21,13 @@ repository               : "yfsong00/smallhammer.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yifan.png"
+  avatar           : "yifan song.jpg"
   name             : "Yifan Song"
   pronouns         : # example: "she/her"  
   bio              : "Low-rank Matrix Approximation, Graph Embedding and GNN"
   location         : "Earth"
   employer         : "HKUST(GZ)"
-  #uri              : # URL
+  uri              : # URL
   email            : "ysong853@connect.hkust-gz.edu.cn" 
 
   # Academic websites
