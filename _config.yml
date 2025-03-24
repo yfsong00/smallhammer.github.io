@@ -12,7 +12,7 @@ title                    : "Yifan Song"
 title_separator          : "-"
 name                     : &name "Yifan Song"
 description              : &description "personal description"
-url                      : https://smallhammer.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://yfsong00.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yfsong00/smallhammer.github.io"
 
