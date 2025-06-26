@@ -22,7 +22,7 @@ Publication
 <strong><font style = "color:#1f57b8">Adding Additional Control to One-Step Diffusion with Joint Distribution Matching</font></strong><br />
 Yihong Luo, Tianyang Hu, <strong>Yifan Song</strong>, Jiacheng Sun, Zhenguo Li, Jing Tang <br />
 International Conference on Computer Vision 2025 (ICCV 2025) <br />
-[[Paper]]([https://openreview.net/pdf?id=NuVBI4wPMm](https://arxiv.org/abs/2503.06652))<br /> 
+[[Paper]](https://arxiv.org/abs/2503.06652)<br /> 
 
 <strong><font style = "color:#1f57b8">Efficient Graph Embedding Generation and Update for Large-Scale Temporal Graph</font></strong><br />
 <strong>Yifan Song</strong>, Xiaolong Chen, Wenqing Lin, Jia Li, Cheng Zhang, Yan Zhou, Lei Chen, Jing Tang<br />
