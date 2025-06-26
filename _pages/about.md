@@ -19,15 +19,15 @@ I am Yifan Song, a Ph.D. candidate in the Data Science and Analytics Thrust, Inf
 
 Publication 
 ===
-<strong><font style = "color:#1f57b8">Adding Additional Control to One-Step Diffusion with Joint Distribution Matching</font></strong><br />
-Yihong Luo, Tianyang Hu, <strong>Yifan Song</strong>, Jiacheng Sun, Zhenguo Li, Jing Tang <br />
-International Conference on Computer Vision 2025 (ICCV 2025) <br />
-[[Paper]](https://arxiv.org/abs/2503.06652)<br /> 
-
 <strong><font style = "color:#1f57b8">Efficient Graph Embedding Generation and Update for Large-Scale Temporal Graph</font></strong><br />
 <strong>Yifan Song</strong>, Xiaolong Chen, Wenqing Lin, Jia Li, Cheng Zhang, Yan Zhou, Lei Chen, Jing Tang<br />
 51st International Conference on Very Large Data Bases. (VLDB 2025) <br />
 [[Paper]](https://vldb.org/pvldb/volumes/18/paper/Efficient%20Graph%20Embedding%20Generation%20and%20Update%20for%20Large-Scale%20Temporal%20Graph) [[Code]](https://github.com/yfsong00/VLDB2025LTGE) <br /> 
+
+<strong><font style = "color:#1f57b8">Adding Additional Control to One-Step Diffusion with Joint Distribution Matching</font></strong><br />
+Yihong Luo, Tianyang Hu, <strong>Yifan Song</strong>, Jiacheng Sun, Zhenguo Li, Jing Tang <br />
+International Conference on Computer Vision 2025 (ICCV 2025) <br />
+[[Paper]](https://arxiv.org/abs/2503.06652)<br /> 
 
 <strong><font style = "color:#1f57b8">Decoupled Graph Energy-based Model for Node Out-of-Distribution Detection on Heterophilic Graphs</font></strong><br />
 Yuhan Chen <sup>*</sup>, Yihong Luo <sup>*</sup>, <strong>Yifan Song</strong>, Pengwen Dai, Jing Tang, Xiaochun Cao <br />
