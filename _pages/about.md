@@ -19,6 +19,11 @@ I am Yifan Song, a Ph.D. candidate in the Data Science and Analytics Thrust, Inf
 
 Publication 
 ===
+<strong><font style = "color:#1f57b8">Adding Additional Control to One-Step Diffusion with Joint Distribution Matching</font></strong><br />
+Yihong Luo, Tianyang Hu, <strong>Yifan Song</strong>, Jiacheng Sun, Zhenguo Li, Jing Tang <br />
+International Conference on Computer Vision 2025 (ICCV 2025) <br />
+[[Paper]]([https://openreview.net/pdf?id=NuVBI4wPMm](https://arxiv.org/abs/2503.06652))<br /> 
+
 <strong><font style = "color:#1f57b8">Efficient Graph Embedding Generation and Update for Large-Scale Temporal Graph</font></strong><br />
 <strong>Yifan Song</strong>, Xiaolong Chen, Wenqing Lin, Jia Li, Cheng Zhang, Yan Zhou, Lei Chen, Jing Tang<br />
 51st International Conference on Very Large Data Bases. (VLDB 2025) <br />
