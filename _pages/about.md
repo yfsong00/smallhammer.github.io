@@ -19,6 +19,11 @@ I am Yifan Song, a Ph.D. candidate in the Data Science and Analytics Thrust, Inf
 
 Publication 
 ===
+<strong><font style = "color:#1f57b8">Signed Proximity Matters in Graph-based Recommendation</font></strong><br />
+<strong>Yifan Song</strong>, Renchi Yang, Jing Tang<br />
+Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (KDD 2026) <br />
+[[Paper]](https://yfsong00.github.io/smallhammer.github.io/) [[Code]](https://github.com/yfsong00/SPGNN/) <br /> 
+
 <strong><font style = "color:#1f57b8">Efficient Graph Embedding Generation and Update for Large-Scale Temporal Graph</font></strong><br />
 <strong>Yifan Song</strong>, Xiaolong Chen, Wenqing Lin, Jia Li, Cheng Zhang, Yan Zhou, Lei Chen, Jing Tang<br />
 51st International Conference on Very Large Data Bases. (VLDB 2025) <br />
@@ -49,7 +54,8 @@ Neural Information Processing: 28th International Conference. (ICONIP 2021)<br /
 
 Education
 ===
-* 2018 --- 2022: **B.Sc.** in Computer Science and Technology, Southeast University
+* 2022 --- now: **Ph.D.** in Data Science and Analytics, HKUST(GZ)
+* 2018 --- 2022: **Bachelor** in Computer Science and Technology, Southeast University
 
 
 Honors and Awards
