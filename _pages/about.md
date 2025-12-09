@@ -13,11 +13,11 @@ Short Bio
 ===
 I am Yifan Song, a Ph.D. candidate in the Data Science and Analytics Thrust, Information Hub, at The Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Jing Tang](https://scholar.google.com/citations?hl=zh-CN&user=0S4cpyoAAAAJ) and [JingLei Yang](https://scholar.google.com/citations?user=7wCHYtgAAAAJ). My research focuses on the following topics:
 * Low-Rank Matrix Approximation
-* Large-Scale Graph Embeddings
-* Graph Neural Networks
+* Large-Scale Graph Embeddings \& Graph Neural Networks
+* GraphRAG 
 * Efficient LLM
 
-Publication 
+Publications
 ===
 <strong><font style = "color:#1f57b8">Signed Proximity Matters in Graph-based Recommendation</font></strong><br />
 <strong>Yifan Song</strong>, Renchi Yang, Jing Tang<br />
@@ -35,7 +35,7 @@ International Conference on Computer Vision 2025 (ICCV 2025) <br />
 [[Paper]](https://arxiv.org/abs/2503.06652)<br /> 
 
 <strong><font style = "color:#1f57b8">Decoupled Graph Energy-based Model for Node Out-of-Distribution Detection on Heterophilic Graphs</font></strong><br />
-Yuhan Chen <sup>*</sup>, Yihong Luo <sup>*</sup>, <strong>Yifan Song</strong>, Pengwen Dai, Jing Tang, Xiaochun Cao <br />
+Yuhan Chen <sup>\*</sup>, Yihong Luo <sup>\*</sup>, <strong>Yifan Song</strong>, Pengwen Dai, Jing Tang, Xiaochun Cao <br />
 The Thirteenth International Conference on Learning Representations (ICLR 2025) <br />
 [[Paper]](https://openreview.net/pdf?id=NuVBI4wPMm)<br /> 
 
@@ -51,6 +51,11 @@ Neural Information Processing: 28th International Conference. (ICONIP 2021)<br /
 
 (* denotes co-first authors) <br />
 
+Preprints
+===
+<strong><font style = "color:#1f57b8">DDFI: Diverse and Distribution-aware Missing Feature Imputation via Two-step Reconstruction</font></strong><br />
+<strong>Yifan Song</strong><sup>\*</sup>, Fenglin Yu<sup>\*</sup>, Yihong Luo<sup>\*</sup>, Xingjian Tao, Siya Qiu, Kai Han, Jing Tang<br />
+[[Paper]](https://arxiv.org/abs/2512.06356)
 
 Education
 ===
@@ -60,10 +65,14 @@ Education
 
 Honors and Awards
 ===
+* Oversea Research Award, The Hong Kong University of Science and Technology (Guangzhou)
+* Bronze Medal, The 2021 ICPC Asia-East Continent Final Contest
 * Gold Medal, The 2021 ICPC Asia Regional Contest, Nanjing Site, China
 * Silver Medal, The 2020 CCPC, Mianyang Site, China
+* Bronze Medal, The 2020 ICPC Asia Regional Contest, Shanghai Site, China
 * Gold Medal, The 2020 Jiangsu Collegiate Programming Contest(JSCPC), China
 * Silver Medal, The 2019 ICPC Asia Regional Contest, Nanchang Site, China
+* First Prize, The 2018 Jiangsu Collegiate Programming Contest(JSCPC), China
 * Silver Medal, The 2018 ICPC Asia Regional Contest, Xuzhou Site, China
 
 Experience
@@ -76,4 +85,4 @@ Experience
 document.write("Last modifid at: "+document.lastModified+"" )
 </script>
 
-<a href="https://info.flagcounter.com/kdvh"><img src="https://s11.flagcounter.com/map/kdvh/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<!-- <a href="https://info.flagcounter.com/kdvh"><img src="https://s11.flagcounter.com/map/kdvh/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a> -->
