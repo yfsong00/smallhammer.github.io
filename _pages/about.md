@@ -46,7 +46,7 @@ Proceedings of the ACM Web Conference 2024. (WWW2024) <br />
 
 <strong><font style = "color:#1f57b8">Dynamic Network Embedding By Time-Relaxed Temporal Random Walk</font></strong><br />
 <strong>Yifan Song</strong>, Darong Lai, Zhihong Chong, Zeyuan Pan<br />
-Neural Information Processing: 28th International Conference. (ICONIP 2021)<br />
+International Conference on Neural Information Processing 2021. (ICONIP 2021)<br />
 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-92185-9_35) <br />
 
 (* denotes co-first authors) <br />
