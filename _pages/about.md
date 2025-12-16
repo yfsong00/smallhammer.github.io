@@ -13,7 +13,7 @@ Short Bio
 ===
 I am Yifan Song, a Ph.D. candidate in the Data Science and Analytics Thrust, Information Hub, at The Hong Kong University of Science and Technology (Guangzhou), under the supervision of [Jing Tang](https://scholar.google.com/citations?hl=zh-CN&user=0S4cpyoAAAAJ) and [JingLei Yang](https://scholar.google.com/citations?user=7wCHYtgAAAAJ). My research focuses on the following topics:
 * Low-Rank Matrix Approximation
-* Large-Scale Graph Embeddings \& Graph Neural Networks
+* Large-Scale Graph Embeddings and Graph Neural Networks
 * GraphRAG 
 * Efficient LLM
 
