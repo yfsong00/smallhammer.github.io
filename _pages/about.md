@@ -21,7 +21,7 @@ Publications
 ===
 <strong><font style = "color:#1f57b8">Signed Proximity Matters in Graph-based Recommendation</font></strong><br />
 <strong>Yifan Song</strong>, Renchi Yang, Jing Tang<br />
-Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (KDD 2026) (To appear) <br />
+Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (KDD 2026)<br />
 [[Paper]](https://yfsong00.github.io/smallhammer.github.io/) [[Code]](https://github.com/yfsong00/SPGNN/) <br /> 
 
 <strong><font style = "color:#1f57b8">Efficient Graph Embedding Generation and Update for Large-Scale Temporal Graph</font></strong><br />
