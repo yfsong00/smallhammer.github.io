@@ -65,7 +65,8 @@ Education
 
 Honors and Awards
 ===
-* Oversea Research Award, The Hong Kong University of Science and Technology (Guangzhou)
+* Excellent Research Award, DSA Thrust, HKUST(GZ)
+* Oversea Research Award, HKUST(GZ)
 * Bronze Medal, The 2021 ICPC Asia-East Continent Final Contest
 * Gold Medal, The 2021 ICPC Asia Regional Contest, Nanjing Site, China
 * Silver Medal, The 2020 CCPC, Mianyang Site, China
