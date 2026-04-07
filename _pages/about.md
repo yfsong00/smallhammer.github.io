@@ -19,6 +19,16 @@ I am Yifan Song, a Ph.D. candidate in the Data Science and Analytics Thrust, Inf
 
 Publications
 ===
+<strong><font style = "color:#1f57b8">Mitigating Structural Overfitting: A Distribution-Aware Rectification Framework for Missing Feature Imputation</font></strong><br />
+<strong>Yifan Song</strong>, Xingjian Tao, Zhicheng Yang, Yihong Luo, Jing Tang<br />
+Findings of the Annual Meeting of the Association for Computational Linguistics. (Findings of ACL2026)<br />
+[[Paper]](https://yfsong00.github.io/smallhammer.github.io/) [[Code]](https://github.com/yfsong00/EHRAG)
+
+<strong><font style = "color:#1f57b8">Mitigating Structural Overfitting: A Distribution-Aware Rectification Framework for Missing Feature Imputation</font></strong><br />
+<strong>Yifan Song</strong><sup>\*</sup>, Fenglin Yu<sup>\*</sup>, Yihong Luo<sup>\*</sup>, Xingjian Tao, Siya Qiu, Kai Han, Jing Tang<br />
+The International Conference on Research and Development in Information Retrieval. (SIGIR2026)<br />
+[[Paper]](https://arxiv.org/abs/2512.06356) [[Code]](https://github.com/yfsong00/DART)
+
 <strong><font style = "color:#1f57b8">Signed Proximity Matters in Graph-based Recommendation</font></strong><br />
 <strong>Yifan Song</strong>, Renchi Yang, Jing Tang<br />
 Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (KDD 2026)<br />
@@ -53,9 +63,9 @@ International Conference on Neural Information Processing 2021. (ICONIP 2021)<br
 
 Preprints
 ===
-<strong><font style = "color:#1f57b8">DDFI: Diverse and Distribution-aware Missing Feature Imputation via Two-step Reconstruction</font></strong><br />
-<strong>Yifan Song</strong><sup>\*</sup>, Fenglin Yu<sup>\*</sup>, Yihong Luo<sup>\*</sup>, Xingjian Tao, Siya Qiu, Kai Han, Jing Tang<br />
-[[Paper]](https://arxiv.org/abs/2512.06356)
+<strong><font style = "color:#1f57b8">Breaking the Noise Cascade: A Tri-Stage Denoising Retrieval Framework for Robust GraphRAG</font></strong><br />
+<strong>Yifan Song</strong>, Xingjian Tao, Jing Tang<br />
+[[Paper]](https://yfsong00.github.io/smallhammer.github.io/) <br />
 
 Education
 ===
@@ -78,6 +88,7 @@ Honors and Awards
 
 Experience
 ===
+* <div>Visiting Student, Prof. Siqiang Luo's Group, Nanyang Technological University</div> 
 * <div>Internship, Tencent Lightspeed & Quantum Studios Group</div> 
 * <div>Research Assistant, SEU MOE Key Lab</div> 
 
