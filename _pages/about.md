@@ -63,9 +63,9 @@ International Conference on Neural Information Processing 2021. (ICONIP 2021)<br
 
 Preprints
 ===
-<strong><font style = "color:#1f57b8">Breaking the Noise Cascade: A Tri-Stage Denoising Retrieval Framework for Robust GraphRAG</font></strong><br />
-<strong>Yifan Song</strong>, Xingjian Tao, Jing Tang<br />
-[[Paper]](https://yfsong00.github.io/smallhammer.github.io/) <br />
+<strong><font style = "color:#1f57b8">ViewFusion: Structured Spatial Thinking Chains for Multi-View Reasoning</font></strong><br />
+Xingjian Tao, Yiwei Wang, Yujun cai, <strong>Yifan Song</strong>, Jing Tang<br />
+[[Paper]](https://arxiv.org/abs/2603.06024) <br />
 
 Education
 ===
