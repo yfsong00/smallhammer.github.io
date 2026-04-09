@@ -19,7 +19,7 @@ I am Yifan Song, a Ph.D. candidate in the Data Science and Analytics Thrust, Inf
 
 Publications
 ===
-<strong><font style = "color:#1f57b8">Mitigating Structural Overfitting: A Distribution-Aware Rectification Framework for Missing Feature Imputation</font></strong><br />
+<strong><font style = "color:#1f57b8">EHRAG: Bridging Semantic Gaps in Lightweight GraphRAG via Hybrid Hypergraph Construction and Retrieval</font></strong><br />
 <strong>Yifan Song</strong>, Xingjian Tao, Zhicheng Yang, Yihong Luo, Jing Tang<br />
 Findings of the Annual Meeting of the Association for Computational Linguistics. (Findings of ACL2026)<br />
 [[Paper]](https://yfsong00.github.io/smallhammer.github.io/) [[Code]](https://github.com/yfsong00/EHRAG)
