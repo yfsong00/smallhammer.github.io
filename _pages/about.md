@@ -67,6 +67,10 @@ Preprints
 Xingjian Tao, Yiwei Wang, Yujun cai, <strong>Yifan Song</strong>, Jing Tang<br />
 [[Paper]](https://arxiv.org/abs/2603.06024) <br />
 
+<strong><font style = "color:#1f57b8">Prune-OPD: Efficient and Reliable On-Policy Distillation for Long-Horizon Reasoning</font></strong><br />
+Zhicheng Yang, Zhijiang Guo, <strong>Yifan Song</strong>, Minrui Xu, Yongxin Wang, Yiwei Wang, Xiaodan Liang, Jing Tang<br />
+[[Paper]](https://arxiv.org/abs/2605.07804) <br />
+
 Education
 ===
 * 2022 --- now: **Ph.D.** in Data Science and Analytics, HKUST(GZ)
