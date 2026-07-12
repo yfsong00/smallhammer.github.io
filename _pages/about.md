@@ -22,7 +22,12 @@ Publications
 <strong><font style = "color:#1f57b8">EHRAG: Bridging Semantic Gaps in Lightweight GraphRAG via Hybrid Hypergraph Construction and Retrieval</font></strong><br />
 <strong>Yifan Song</strong>, Xingjian Tao, Zhicheng Yang, Yihong Luo, Jing Tang<br />
 Findings of the Annual Meeting of the Association for Computational Linguistics. (Findings of ACL2026)<br />
-[[Paper]](https://yfsong00.github.io/smallhammer.github.io/) [[Code]](https://github.com/yfsong00/EHRAG)
+[[Paper]](https://aclanthology.org/2026.findings-acl.1233/) [[Code]](https://github.com/yfsong00/EHRAG)
+
+<strong><font style = "color:#1f57b8">ViewFusion: Structured Spatial Thinking Chains for Multi-View Reasoning</font></strong><br />
+Xingjian Tao, Yiwei Wang, Yujun cai, <strong>Yifan Song</strong>, Jing Tang<br />
+The 19th European Conference on Computer Vision (ECCV2026)<br />
+[[Paper]](https://arxiv.org/abs/2603.06024) <br />
 
 <strong><font style = "color:#1f57b8">Mitigating Structural Overfitting: A Distribution-Aware Rectification Framework for Missing Feature Imputation</font></strong><br />
 <strong>Yifan Song</strong><sup>\*</sup>, Fenglin Yu<sup>\*</sup>, Yihong Luo<sup>\*</sup>, Xingjian Tao, Siya Qiu, Kai Han, Jing Tang<br />
@@ -32,7 +37,7 @@ The International Conference on Research and Development in Information Retrieva
 <strong><font style = "color:#1f57b8">Signed Proximity Matters in Graph-based Recommendation</font></strong><br />
 <strong>Yifan Song</strong>, Renchi Yang, Jing Tang<br />
 Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (KDD 2026)<br />
-[[Paper]](https://yfsong00.github.io/smallhammer.github.io/) [[Code]](https://github.com/yfsong00/SPGNN/) <br /> 
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3770854.3780298) [[Code]](https://github.com/yfsong00/SPGNN/) <br /> 
 
 <strong><font style = "color:#1f57b8">Efficient Graph Embedding Generation and Update for Large-Scale Temporal Graph</font></strong><br />
 <strong>Yifan Song</strong>, Xiaolong Chen, Wenqing Lin, Jia Li, Cheng Zhang, Yan Zhou, Lei Chen, Jing Tang<br />
@@ -63,10 +68,6 @@ International Conference on Neural Information Processing 2021. (ICONIP 2021)<br
 
 Preprints
 ===
-<strong><font style = "color:#1f57b8">ViewFusion: Structured Spatial Thinking Chains for Multi-View Reasoning</font></strong><br />
-Xingjian Tao, Yiwei Wang, Yujun cai, <strong>Yifan Song</strong>, Jing Tang<br />
-[[Paper]](https://arxiv.org/abs/2603.06024) <br />
-
 <strong><font style = "color:#1f57b8">Prune-OPD: Efficient and Reliable On-Policy Distillation for Long-Horizon Reasoning</font></strong><br />
 Zhicheng Yang, Zhijiang Guo, <strong>Yifan Song</strong>, Minrui Xu, Yongxin Wang, Yiwei Wang, Xiaodan Liang, Jing Tang<br />
 [[Paper]](https://arxiv.org/abs/2605.07804) <br />
