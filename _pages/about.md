@@ -24,7 +24,7 @@ Publications
 ===
 <strong><font style = "color:#1f57b8">Breaking the Noise Cascade: A Tri-Stage Denoising Retrieval Framework for Robust GraphRAG</font></strong><br />
 <strong>Yifan Song</strong>, Xingjian Tao, Changan Liu, Zhicheng Yang, Jing Tang<br />
-Findings of the Annual Meeting of the Association for Computational Linguistics. (Findings of ACL2026)<br />
+The 43rd IEEE International Conference on Data Engineering (ICDE2027)<br />
 [[Paper]](https://yfsong00.github.io/smallhammer.github.io/) [[Code]](https://yfsong00.github.io/smallhammer.github.io/)
 
 <strong><font style = "color:#1f57b8">EHRAG: Bridging Semantic Gaps in Lightweight GraphRAG via Hybrid Hypergraph Construction and Retrieval</font></strong><br />
@@ -39,7 +39,7 @@ The 19th European Conference on Computer Vision (ECCV2026)<br />
 
 <strong><font style = "color:#1f57b8">Mitigating Structural Overfitting: A Distribution-Aware Rectification Framework for Missing Feature Imputation</font></strong><br />
 <strong>Yifan Song</strong><sup>\*</sup>, Fenglin Yu<sup>\*</sup>, Yihong Luo<sup>\*</sup>, Xingjian Tao, Siya Qiu, Kai Han, Jing Tang<br />
-The International Conference on Research and Development in Information Retrieval. (SIGIR2026)<br />
+The 49th International Conference on Research and Development in Information Retrieval. (SIGIR2026)<br />
 [[Paper]](https://arxiv.org/abs/2512.06356) [[Code]](https://github.com/yfsong00/DART)
 
 <strong><font style = "color:#1f57b8">Signed Proximity Matters in Graph-based Recommendation</font></strong><br />
@@ -59,7 +59,7 @@ International Conference on Computer Vision 2025 (ICCV 2025) <br />
 
 <strong><font style = "color:#1f57b8">Decoupled Graph Energy-based Model for Node Out-of-Distribution Detection on Heterophilic Graphs</font></strong><br />
 Yuhan Chen <sup>\*</sup>, Yihong Luo <sup>\*</sup>, <strong>Yifan Song</strong>, Pengwen Dai, Jing Tang, Xiaochun Cao <br />
-The Thirteenth International Conference on Learning Representations (ICLR 2025) <br />
+The 13th International Conference on Learning Representations (ICLR 2025) <br />
 [[Paper]](https://openreview.net/pdf?id=NuVBI4wPMm)<br /> 
 
 <strong><font style = "color:#1f57b8">Link Recommendation to Augment Influence Diffusion with Provable Guarantees</font></strong><br />
