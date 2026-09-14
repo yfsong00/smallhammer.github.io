@@ -11,14 +11,22 @@ redirect_from:
 
 Short Bio
 ===
-I am Yifan Song, a Ph.D. candidate in the Data Science and Analytics Thrust, Information Hub, at The Hong Kong University of Science and Technology (Guangzhou), under the supervision of Prof. [Jing Tang](https://scholar.google.com/citations?hl=zh-CN&user=0S4cpyoAAAAJ) and Prof. [JingLei Yang](https://scholar.google.com/citations?user=7wCHYtgAAAAJ). My research focuses on the following topics:
-* Low-Rank Matrix Approximation
-* Large-Scale Graph Embeddings and Graph Neural Networks
-* GraphRAG 
-* Efficient LLM
+I am Yifan Song, a Research Fellow at the College of Computing and Data Science, [Nanyang Technological University](https://www.ntu.edu.sg/), working with Prof. [Siqiang Luo](https://siqiangluo.com/). I received my Ph.D. in Data Science and Analytics at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/) in 2026, under the supervision of Prof. [Jing Tang](https://scholar.google.com/citations?hl=zh-CN&user=0S4cpyoAAAAJ) and Prof. [Jinglei Yang](https://scholar.google.com/citations?user=7wCHYtgAAAAJ). Before that, I was an undergraduate student at [School of Computer Science and Engineering, Southeast University](https://cse.seu.edu.cn/). 
+
+My research asks how systems can locate and use the right information efficiently at scale, from matrix and graph representations to retrieval-augmented and agentic systems. Specifically, I focus on the following topics:
+* Retrieval-augmented generation over structured data (e.g., GraphRAG).
+* Agentic search and RAG, including RL-based training of search agents.
+* Low-rank matrix approximation.
+* Large-scale graph embeddings and graph neural networks.
+
 
 Publications
 ===
+<strong><font style = "color:#1f57b8">Breaking the Noise Cascade: A Tri-Stage Denoising Retrieval Framework for Robust GraphRAG</font></strong><br />
+<strong>Yifan Song</strong>, Xingjian Tao, Changan Liu, Zhicheng Yang, Jing Tang<br />
+Findings of the Annual Meeting of the Association for Computational Linguistics. (Findings of ACL2026)<br />
+[[Paper]](https://yfsong00.github.io/smallhammer.github.io/) [[Code]](https://yfsong00.github.io/smallhammer.github.io/)
+
 <strong><font style = "color:#1f57b8">EHRAG: Bridging Semantic Gaps in Lightweight GraphRAG via Hybrid Hypergraph Construction and Retrieval</font></strong><br />
 <strong>Yifan Song</strong>, Xingjian Tao, Zhicheng Yang, Yihong Luo, Jing Tang<br />
 Findings of the Annual Meeting of the Association for Computational Linguistics. (Findings of ACL2026)<br />
@@ -74,7 +82,7 @@ Zhicheng Yang, Zhijiang Guo, <strong>Yifan Song</strong>, Minrui Xu, Yongxin Wan
 
 Education
 ===
-* 2022 --- now: **Ph.D.** in Data Science and Analytics, HKUST(GZ)
+* 2022 --- 2026: **Ph.D.** in Data Science and Analytics, HKUST(GZ)
 * 2018 --- 2022: **Bachelor** in Computer Science and Technology, Southeast University
 
 
