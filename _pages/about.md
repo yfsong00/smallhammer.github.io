@@ -13,7 +13,7 @@ Short Bio
 ===
 I am Yifan Song, a Research Fellow at the College of Computing and Data Science, [Nanyang Technological University](https://www.ntu.edu.sg/), working with Prof. [Siqiang Luo](https://siqiangluo.com/). I received my Ph.D. in Data Science and Analytics at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/) in 2026, under the supervision of Prof. [Jing Tang](https://scholar.google.com/citations?hl=zh-CN&user=0S4cpyoAAAAJ) and Prof. [Jinglei Yang](https://scholar.google.com/citations?user=7wCHYtgAAAAJ). Before that, I was an undergraduate student at [School of Computer Science and Engineering, Southeast University](https://cse.seu.edu.cn/). 
 
-My research asks how systems can locate and use the right information efficiently at scale, from matrix and graph representations to retrieval-augmented and agentic systems. Specifically, I focus on the following topics:
+My research asks how systems can locate and use the right information efficiently at scale, from large-scale graph representations to retrieval-augmented and agentic systems. My current topics include:
 * Retrieval-augmented generation over structured data (e.g., GraphRAG).
 * Agentic search and RAG, including RL-based training of search agents.
 * Low-rank matrix approximation.
