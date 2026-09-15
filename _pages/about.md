@@ -48,7 +48,7 @@ Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mi
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3770854.3780298) [[Code]](https://github.com/yfsong00/SPGNN/) <br /> 
 
 <strong><font style = "color:#1f57b8">Efficient Graph Embedding Generation and Update for Large-Scale Temporal Graph</font></strong><br />
-<strong>Yifan Song</strong>, Xiaolong Chen, Wenqing Lin, Jia Li, Cheng Zhang, Yan Zhou, Lei Chen, Jing Tang<br />
+<strong>Yifan Song</strong>, Xiaolong Chen, Wenqing Lin, Jia Li, Chen Zhang, Yan Zhou, Lei Chen, Jing Tang<br />
 51st International Conference on Very Large Data Bases. (VLDB 2025) <br />
 [[Paper]](https://vldb.org/pvldb/volumes/18/paper/Efficient%20Graph%20Embedding%20Generation%20and%20Update%20for%20Large-Scale%20Temporal%20Graph) [[Code]](https://github.com/yfsong00/VLDB2025LTGE) <br /> 
 
