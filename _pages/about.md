@@ -96,7 +96,7 @@ Honors and Awards
 * Bronze Medal, The 2020 ICPC Asia Regional Contest, Shanghai Site, China
 * Gold Medal, The 2020 Jiangsu Collegiate Programming Contest(JSCPC), China
 * Silver Medal, The 2019 ICPC Asia Regional Contest, Nanchang Site, China
-* First Prize, The 2018 Jiangsu Collegiate Programming Contest(JSCPC), China
+* First Prize, The 2019 Jiangsu Collegiate Programming Contest(JSCPC), China
 * Silver Medal, The 2018 ICPC Asia Regional Contest, Xuzhou Site, China
 
 Experience
