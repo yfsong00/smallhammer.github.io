@@ -11,7 +11,7 @@ redirect_from:
 
 Short Bio
 ===
-I am Yifan Song, a Research Fellow at the College of Computing and Data Science, [Nanyang Technological University](https://www.ntu.edu.sg/), working with Prof. [Siqiang Luo](https://siqiangluo.com/). I received my Ph.D. in Data Science and Analytics at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/) in 2026, under the supervision of Prof. [Jing Tang](https://scholar.google.com/citations?hl=zh-CN&user=0S4cpyoAAAAJ) and Prof. [Jinglei Yang](https://scholar.google.com/citations?user=7wCHYtgAAAAJ). Before that, I was an undergraduate student at [School of Computer Science and Engineering, Southeast University](https://cse.seu.edu.cn/). 
+I am Yifan Song, a Research Fellow at the College of Computing and Data Science, [Nanyang Technological University](https://www.ntu.edu.sg/), working with Prof. [Siqiang Luo](https://siqiangluo.com/). I received my Ph.D. in Data Science and Analytics at [The Hong Kong University of Science and Technology (HKUST), Guangzhou campus](https://hkust-gz.edu.cn/) in 2026, under the supervision of Prof. [Jing Tang](https://scholar.google.com/citations?hl=zh-CN&user=0S4cpyoAAAAJ) and Prof. [Jinglei Yang](https://scholar.google.com/citations?user=7wCHYtgAAAAJ). Before that, I was an undergraduate student at [School of Computer Science and Engineering, Southeast University](https://cse.seu.edu.cn/). 
 
 My research asks how systems can locate and use the right information efficiently at scale, from large-scale graph representations to retrieval-augmented and agentic systems. My current topics include:
 * Retrieval-augmented generation over structured data (e.g., GraphRAG).
@@ -80,9 +80,17 @@ Preprints
 Zhicheng Yang, Zhijiang Guo, <strong>Yifan Song</strong>, Minrui Xu, Yongxin Wang, Yiwei Wang, Xiaodan Liang, Jing Tang<br />
 [[Paper]](https://arxiv.org/abs/2605.07804) <br />
 
+Experience
+===
+* <div>Research Fellow, Prof. Siqiang Luo's Group, Nanyang Technological University, 2026.8-date</div>
+* <div>Researcher, Advaita Labs, 2026.6-2026.8</div> 
+* <div>Visiting Student, Prof. Siqiang Luo's Group, Nanyang Technological University, 2026.1-2026.4</div> 
+* <div>Internship, Tencent Lightspeed & Quantum Studios Group, 2019.6-2019.9</div> 
+* <div>Research Assistant, SEU MOE Key Lab, 2019.9-2022.6</div> 
+
 Education
 ===
-* 2022 --- 2026: **Ph.D.** in Data Science and Analytics, HKUST(GZ)
+* 2022 --- 2026: **Ph.D.** in Data Science and Analytics, The Hong Kong University of Science and Technology (Guangzhou)
 * 2018 --- 2022: **Bachelor** in Computer Science and Technology, Southeast University
 
 
@@ -98,12 +106,6 @@ Honors and Awards
 * Silver Medal, The 2019 ICPC Asia Regional Contest, Nanchang Site, China
 * First Prize, The 2019 Jiangsu Collegiate Programming Contest(JSCPC), China
 * Silver Medal, The 2018 ICPC Asia Regional Contest, Xuzhou Site, China
-
-Experience
-===
-* <div>Visiting Student, Prof. Siqiang Luo's Group, Nanyang Technological University</div> 
-* <div>Internship, Tencent Lightspeed & Quantum Studios Group</div> 
-* <div>Research Assistant, SEU MOE Key Lab</div> 
 
 ---
 <script>
